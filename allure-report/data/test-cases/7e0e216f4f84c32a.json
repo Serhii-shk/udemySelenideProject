@@ -1,0 +1,177 @@
+{
+  "uid" : "7e0e216f4f84c32a",
+  "name" : "checkIsRedirectToAuth()",
+  "fullName" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest.checkIsRedirectToAuth",
+  "historyId" : "f304273a0bd2de549611f1c6ac72d08e",
+  "time" : {
+    "start" : 1651218590614,
+    "stop" : 1651218612574,
+    "duration" : 21960
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 14,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MacBook-Air-2.netis.cc"
+  }, {
+    "name" : "thread",
+    "value" : "2401@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkIsRedirectToAuth"
+  }, {
+    "name" : "suite",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "61d47496168f87b2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(), 'My wallet')]\"}\n  (Session info: chrome=100.0.4896.127)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.netis.cc', ip: '192.168.1.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:50245}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 535615b4e614a27d9602c85e938a1892\n*** Element info: {Using=xpath, value=//div[contains(text(), 'My wallet')]}",
+      "time" : {
+        "start" : 1651218511455,
+        "stop" : 1651218527725,
+        "duration" : 16270
+      }
+    }, {
+      "uid" : "482863de9615a109",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(), 'My wallet')]\"}\n  (Session info: chrome=100.0.4896.127)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.netis.cc', ip: '192.168.1.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:50169}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fada8b124cf4d0f3b48bd721ed45f0e3\n*** Element info: {Using=xpath, value=//div[contains(text(), 'My wallet')]}",
+      "time" : {
+        "start" : 1651218451241,
+        "stop" : 1651218469297,
+        "duration" : 18056
+      }
+    }, {
+      "uid" : "e0b267b50ab7e727",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651218345838,
+        "stop" : 1651218360703,
+        "duration" : 14865
+      }
+    }, {
+      "uid" : "f40a67f26d41dc53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651174331793,
+        "stop" : 1651174344748,
+        "duration" : 12955
+      }
+    }, {
+      "uid" : "6f400d963a2ae398",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651174158741,
+        "stop" : 1651174178385,
+        "duration" : 19644
+      }
+    }, {
+      "uid" : "2f16b2521aeb616",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651174094490,
+        "stop" : 1651174115679,
+        "duration" : 21189
+      }
+    }, {
+      "uid" : "5ca563871a159089",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651172297261,
+        "stop" : 1651172376630,
+        "duration" : 79369
+      }
+    }, {
+      "uid" : "da946681d5dccf62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651171851687,
+        "stop" : 1651171872531,
+        "duration" : 20844
+      }
+    }, {
+      "uid" : "d8a2a061224d23c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651171701494,
+        "stop" : 1651171760190,
+        "duration" : 58696
+      }
+    }, {
+      "uid" : "ee567e4c52342db1",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(), 'My wallet')]\"}\n  (Session info: chrome=100.0.4896.127)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.netis.cc', ip: '192.168.1.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:60128}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 43b3d5a99e888643356b5bc79b646dbb\n*** Element info: {Using=xpath, value=//div[contains(text(), 'My wallet')]}",
+      "time" : {
+        "start" : 1651171447393,
+        "stop" : 1651171463725,
+        "duration" : 16332
+      }
+    }, {
+      "uid" : "7c672009cbe31a13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651154583660,
+        "stop" : 1651154606999,
+        "duration" : 23339
+      }
+    }, {
+      "uid" : "727fdd70992e7a3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651154321018,
+        "stop" : 1651154337585,
+        "duration" : 16567
+      }
+    }, {
+      "uid" : "b1c60cd812abd397",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651154214273,
+        "stop" : 1651154227596,
+        "duration" : 13323
+      }
+    }, {
+      "uid" : "f79e7f6bb92424fb",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(), 'My wallet')]\"}\n  (Session info: chrome=100.0.4896.127)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.netis.cc', ip: '192.168.1.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:55167}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f94a9662a9751d362eb8980546b4a8da\n*** Element info: {Using=xpath, value=//div[contains(text(), 'My wallet')]}",
+      "time" : {
+        "start" : 1651154125374,
+        "stop" : 1651154139452,
+        "duration" : 14078
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e0e216f4f84c32a.json",
+  "parameterValues" : [ ]
+}

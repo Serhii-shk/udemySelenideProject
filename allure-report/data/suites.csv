@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Apr 26 17:28:35 EEST 2022","Tue Apr 26 17:28:38 EEST 2022","3577","","tests.telecomunications.positive.MobilePhoneReplenishmentTest","","tests.telecomunications.positive.MobilePhoneReplenishmentTest","checkIsRedirectToAuth","checkIsRedirectToAuth()",""
+"passed","Fri Apr 29 10:49:56 EEST 2022","Fri Apr 29 10:50:16 EEST 2022","19833","","tests.loans.positive.CarLoansPositiveTest","","tests.loans.positive.CarLoansPositiveTest","selectAgreementsTabInPublicSession","selectAgreementsTabInPublicSession()",""
+"passed","Fri Apr 29 10:49:50 EEST 2022","Fri Apr 29 10:50:12 EEST 2022","21960","","tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest","","tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest","checkIsRedirectToAuth","checkIsRedirectToAuth()",""

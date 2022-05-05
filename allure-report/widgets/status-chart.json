@@ -1,0 +1,31 @@
+[ {
+  "uid" : "9dfad5e47a59d6b2",
+  "name" : "checkIsRedirectToAuth()",
+  "time" : {
+    "start" : 1650983315097,
+    "stop" : 1650983318674,
+    "duration" : 3577
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fe79bc693e687290",
+  "name" : "selectAgreementsTabInPublicSession()",
+  "time" : {
+    "start" : 1651218596250,
+    "stop" : 1651218616083,
+    "duration" : 19833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e0e216f4f84c32a",
+  "name" : "checkIsRedirectToAuth()",
+  "time" : {
+    "start" : 1651218590614,
+    "stop" : 1651218612574,
+    "duration" : 21960
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

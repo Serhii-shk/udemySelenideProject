@@ -1,0 +1,59 @@
+{
+  "uid" : "6f400d963a2ae398",
+  "name" : "checkIsRedirectToAuth()",
+  "fullName" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest.checkIsRedirectToAuth",
+  "historyId" : "f304273a0bd2de549611f1c6ac72d08e",
+  "time" : {
+    "start" : 1651174158741,
+    "stop" : 1651174178385,
+    "duration" : 19644
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MacBook-Air-2.netis.cc"
+  }, {
+    "name" : "thread",
+    "value" : "38839@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkIsRedirectToAuth"
+  }, {
+    "name" : "suite",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f400d963a2ae398.json",
+  "parameterValues" : [ ]
+}

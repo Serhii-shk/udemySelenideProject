@@ -1,0 +1,929 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Air-2.netis.cc",
+    "children" : [ {
+      "name" : "2401@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "fe79bc693e687290",
+        "parentUid" : "f1b6335abf2a5342a7169cdaadabe79e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651218596250,
+          "stop" : 1651218616083,
+          "duration" : 19833
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 17,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f1b6335abf2a5342a7169cdaadabe79e"
+    }, {
+      "name" : "2401@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "7e0e216f4f84c32a",
+        "parentUid" : "de8e122618712c1a91809c6e386a040a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651218590614,
+          "stop" : 1651218612574,
+          "duration" : 21960
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 14,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de8e122618712c1a91809c6e386a040a"
+    }, {
+      "name" : "34605@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "b1c60cd812abd397",
+        "parentUid" : "888ca6ede5a3fa497e689a42a6e17fae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651154214273,
+          "stop" : 1651154227596,
+          "duration" : 13323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "888ca6ede5a3fa497e689a42a6e17fae"
+    }, {
+      "name" : "1430@MacBook-Air-2.netis.cc.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "ff645596aa1786b7",
+        "parentUid" : "f9fd262abebd8d87ba34661f06273514",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650574627337,
+          "stop" : 1650574668301,
+          "duration" : 40964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f9fd262abebd8d87ba34661f06273514"
+    }, {
+      "name" : "34704@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "727fdd70992e7a3d",
+        "parentUid" : "e2120643e78101eb0877d3c22e591597",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651154321018,
+          "stop" : 1651154337585,
+          "duration" : 16567
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2120643e78101eb0877d3c22e591597"
+    }, {
+      "name" : "38930@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "603a3e48d1fe5af3",
+        "parentUid" : "1f78447eae2c2cd093eeca2151f83352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651174304723,
+          "stop" : 1651174317871,
+          "duration" : 13148
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "f40a67f26d41dc53",
+        "parentUid" : "1f78447eae2c2cd093eeca2151f83352",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651174331793,
+          "stop" : 1651174344748,
+          "duration" : 12955
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1f78447eae2c2cd093eeca2151f83352"
+    }, {
+      "name" : "2148@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "4bbf6cccecc436f5",
+        "parentUid" : "5412e090796098c77cee92559cdbcfe8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651218322852,
+          "stop" : 1651218337462,
+          "duration" : 14610
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "e0b267b50ab7e727",
+        "parentUid" : "5412e090796098c77cee92559cdbcfe8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651218345838,
+          "stop" : 1651218360703,
+          "duration" : 14865
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5412e090796098c77cee92559cdbcfe8"
+    }, {
+      "name" : "37739@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "47f9c24445a9e8b5",
+        "parentUid" : "fa829b50aa78790b75e5999af0a2fe3c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651171440656,
+          "stop" : 1651171461248,
+          "duration" : 20592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fa829b50aa78790b75e5999af0a2fe3c"
+    }, {
+      "name" : "34896@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "8ee0df1cced97180",
+        "parentUid" : "d63551a6e3563bcb94269e0887c8b044",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651154531151,
+          "stop" : 1651154545749,
+          "duration" : 14598
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d63551a6e3563bcb94269e0887c8b044"
+    }, {
+      "name" : "38064@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "c7024bc3369dbe4f",
+        "parentUid" : "29260b9a4497043a0db4443eebef6747",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651171857015,
+          "stop" : 1651171874655,
+          "duration" : 17640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29260b9a4497043a0db4443eebef6747"
+    }, {
+      "name" : "34462@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "f79e7f6bb92424fb",
+        "parentUid" : "fcae3fd466e49d0a8f8afb0e3dd8548c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651154125374,
+          "stop" : 1651154139452,
+          "duration" : 14078
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fcae3fd466e49d0a8f8afb0e3dd8548c"
+    }, {
+      "name" : "34946@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "7c672009cbe31a13",
+        "parentUid" : "6211a83cd4a2d2c67745b65e1e0f85d2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651154583660,
+          "stop" : 1651154606999,
+          "duration" : 23339
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6211a83cd4a2d2c67745b65e1e0f85d2"
+    }, {
+      "name" : "2319@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "61d47496168f87b2",
+        "parentUid" : "3affcda5f27492432c2be189d17304e4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651218511455,
+          "stop" : 1651218527725,
+          "duration" : 16270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3affcda5f27492432c2be189d17304e4"
+    }, {
+      "name" : "34946@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "e480c57a8d937cda",
+        "parentUid" : "64e4431ac3c5e65d0d457ecfbf85dddb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651154583660,
+          "stop" : 1651154603750,
+          "duration" : 20090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "64e4431ac3c5e65d0d457ecfbf85dddb"
+    }, {
+      "name" : "33910@MacBook-Air-2.netis.cc.main(1)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "9081765da5bd1293",
+        "parentUid" : "725f489baf7157f258e0ddd83b56d416",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651150155152,
+          "stop" : 1651150169653,
+          "duration" : 14501
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "725f489baf7157f258e0ddd83b56d416"
+    }, {
+      "name" : "37933@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(14)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "d8a2a061224d23c8",
+        "parentUid" : "3a1bffbceb21529906cffac623afa04b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651171701494,
+          "stop" : 1651171760190,
+          "duration" : 58696
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a1bffbceb21529906cffac623afa04b"
+    }, {
+      "name" : "67851@MacBook-Air-2.netis.cc.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "51c4e508a72c6df9",
+        "parentUid" : "9e99f6dcdf6275c1153b937db7af327e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650573864370,
+          "stop" : 1650573915570,
+          "duration" : 51200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e99f6dcdf6275c1153b937db7af327e"
+    }, {
+      "name" : "2233@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "3e08cd0865dc0c29",
+        "parentUid" : "301352e617d79272532122a57c7aaa5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651218455838,
+          "stop" : 1651218475141,
+          "duration" : 19303
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "301352e617d79272532122a57c7aaa5e"
+    }, {
+      "name" : "37739@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "ee567e4c52342db1",
+        "parentUid" : "fc16b5f6ca5b84737c472ee40b7111ce",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651171447393,
+          "stop" : 1651171463725,
+          "duration" : 16332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc16b5f6ca5b84737c472ee40b7111ce"
+    }, {
+      "name" : "35032@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "3a7b9779b1b152ad",
+        "parentUid" : "383f77f833c9939d51cb8c4da3d9cc35",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651154675108,
+          "stop" : 1651154688328,
+          "duration" : 13220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "383f77f833c9939d51cb8c4da3d9cc35"
+    }, {
+      "name" : "37933@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(15)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "a339b33c74769750",
+        "parentUid" : "3761acadb7a7709e15162e8befc82e0f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651171757147,
+          "stop" : 1651171774461,
+          "duration" : 17314
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3761acadb7a7709e15162e8befc82e0f"
+    }, {
+      "name" : "38839@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "4bbdde06c45cc184",
+        "parentUid" : "cd91bcd6b0ff9c69ff14fa1fce6610d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651174165023,
+          "stop" : 1651174184375,
+          "duration" : 19352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd91bcd6b0ff9c69ff14fa1fce6610d4"
+    }, {
+      "name" : "34704@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "9f69e5416ef907be",
+        "parentUid" : "68f694cff96e4757597d1d72651a8821",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651154328223,
+          "stop" : 1651154342582,
+          "duration" : 14359
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "68f694cff96e4757597d1d72651a8821"
+    }, {
+      "name" : "38754@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "2f16b2521aeb616",
+        "parentUid" : "e6ae804ef2c70f473e7611123373a56f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651174094490,
+          "stop" : 1651174115679,
+          "duration" : 21189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6ae804ef2c70f473e7611123373a56f"
+    }, {
+      "name" : "2233@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "482863de9615a109",
+        "parentUid" : "3f6a63eed8161c093dc1ff18a9d59767",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651218451241,
+          "stop" : 1651218469297,
+          "duration" : 18056
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3f6a63eed8161c093dc1ff18a9d59767"
+    }, {
+      "name" : "2319@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "99661b0407e4b06c",
+        "parentUid" : "156b7c4d218a8c5d7fe213866eb9e1ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651218509177,
+          "stop" : 1651218530645,
+          "duration" : 21468
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "156b7c4d218a8c5d7fe213866eb9e1ca"
+    }, {
+      "name" : "1497@MacBook-Air-2.netis.cc.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "8731cefa344aea8f",
+        "parentUid" : "77ff826035466d1b0484e0b68b1dbf60",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650574789937,
+          "stop" : 1650574830658,
+          "duration" : 40721
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "77ff826035466d1b0484e0b68b1dbf60"
+    }, {
+      "name" : "38839@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "6f400d963a2ae398",
+        "parentUid" : "a66716b75bd490f97c9749b813fbd169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651174158741,
+          "stop" : 1651174178385,
+          "duration" : 19644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a66716b75bd490f97c9749b813fbd169"
+    }, {
+      "name" : "38263@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(15)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "5e5a2f8646013a7e",
+        "parentUid" : "e41ad0a1478beffc034776c347cfa203",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651172294082,
+          "stop" : 1651172378369,
+          "duration" : 84287
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e41ad0a1478beffc034776c347cfa203"
+    }, {
+      "name" : "34462@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "8fa926aa3bc0bec8",
+        "parentUid" : "12a028d05c7a417be27a6446122bc033",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651154117161,
+          "stop" : 1651154135922,
+          "duration" : 18761
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12a028d05c7a417be27a6446122bc033"
+    }, {
+      "name" : "38064@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "da946681d5dccf62",
+        "parentUid" : "33e353f10ffac0441e59559f3cf81f0b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651171851687,
+          "stop" : 1651171872531,
+          "duration" : 20844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "33e353f10ffac0441e59559f3cf81f0b"
+    }, {
+      "name" : "38754@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "f42ba2261ad61d27",
+        "parentUid" : "8e1900ab50021044bc5eae19ed544f35",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651174101876,
+          "stop" : 1651174120983,
+          "duration" : 19107
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8e1900ab50021044bc5eae19ed544f35"
+    }, {
+      "name" : "34659@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(13)",
+      "children" : [ {
+        "name" : "selectAgreementsTabInPublicSession()",
+        "uid" : "38ba237d5c89d260",
+        "parentUid" : "d4995511018eda864626c69ff74b40dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651154267634,
+          "stop" : 1651154280666,
+          "duration" : 13032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d4995511018eda864626c69ff74b40dd"
+    }, {
+      "name" : "38263@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-1(14)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "5ca563871a159089",
+        "parentUid" : "f4af189d6b37b0028855c4a432191086",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651172297261,
+          "stop" : 1651172376630,
+          "duration" : 79369
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f4af189d6b37b0028855c4a432191086"
+    } ],
+    "uid" : "d54189131ff98de9ef7a20e7386a2b68"
+  }, {
+    "name" : "MacBook-Air-2.local",
+    "children" : [ {
+      "name" : "5843@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "3f11957578a83942",
+        "parentUid" : "3350de8ca7392bb6548460ac1db66081",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650622292174,
+          "stop" : 1650622302997,
+          "duration" : 10823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3350de8ca7392bb6548460ac1db66081"
+    }, {
+      "name" : "23246@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "9dfad5e47a59d6b2",
+        "parentUid" : "a0eeb764319453a754f4ffaa41b26c07",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650983315097,
+          "stop" : 1650983318674,
+          "duration" : 3577
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 10,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a0eeb764319453a754f4ffaa41b26c07"
+    }, {
+      "name" : "4622@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "da8aa797d79ba540",
+        "parentUid" : "220712a293101d9a7e20fe31d27af6b7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650617798994,
+          "stop" : 1650617839586,
+          "duration" : 40592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "220712a293101d9a7e20fe31d27af6b7"
+    }, {
+      "name" : "2344@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "d6d8f706866d3393",
+        "parentUid" : "adfec5d3c094686b368f83f934e8cc99",
+        "status" : "broken",
+        "time" : {
+          "start" : 1650576598165,
+          "stop" : 1650576639487,
+          "duration" : 41322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "adfec5d3c094686b368f83f934e8cc99"
+    }, {
+      "name" : "11840@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "7fc661c3ce1e53de",
+        "parentUid" : "7085d130bbfba4e4e25e1a719196bcb4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650649873627,
+          "stop" : 1650649886607,
+          "duration" : 12980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7085d130bbfba4e4e25e1a719196bcb4"
+    }, {
+      "name" : "11344@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "a30e20ff4a733ba8",
+        "parentUid" : "dc4369aa41ca0344efb59448e3a0d3a2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650648570881,
+          "stop" : 1650648583521,
+          "duration" : 12640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dc4369aa41ca0344efb59448e3a0d3a2"
+    }, {
+      "name" : "4988@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "c5bd81f6f01cde2",
+        "parentUid" : "6617fd93922464c0727fbf68e1d14b01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650618462019,
+          "stop" : 1650618472618,
+          "duration" : 10599
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6617fd93922464c0727fbf68e1d14b01"
+    }, {
+      "name" : "23176@MacBook-Air-2.local.main(1)",
+      "children" : [ {
+        "name" : "checkIsRedirectToAuth()",
+        "uid" : "4106a12a92aa1f61",
+        "parentUid" : "67518069b24dc4a55e19207ff1ddbfc5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1650983215710,
+          "stop" : 1650983229885,
+          "duration" : 14175
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "67518069b24dc4a55e19207ff1ddbfc5"
+    } ],
+    "uid" : "2dde9cbcaaa83628be70996810532837"
+  } ]
+}

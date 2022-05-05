@@ -1,0 +1,59 @@
+{
+  "uid" : "a30e20ff4a733ba8",
+  "name" : "checkIsRedirectToAuth()",
+  "fullName" : "tests.telecomunications.positive.MobilePhoneReplenishmentTest.checkIsRedirectToAuth",
+  "historyId" : "f4153b940a3e58abd474fac406bb59e7",
+  "time" : {
+    "start" : 1650648570881,
+    "stop" : 1650648583521,
+    "duration" : 12640
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MacBook-Air-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "11344@MacBook-Air-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkIsRedirectToAuth"
+  }, {
+    "name" : "suite",
+    "value" : "tests.telecomunications.positive.MobilePhoneReplenishmentTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a30e20ff4a733ba8.json",
+  "parameterValues" : [ ]
+}

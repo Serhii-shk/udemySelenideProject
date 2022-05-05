@@ -1,0 +1,60 @@
+{
+  "f304273a0bd2de549611f1c6ac72d08e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7e0e216f4f84c32a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651218590614,
+        "stop" : 1651218612574,
+        "duration" : 21960
+      }
+    } ]
+  },
+  "4b222363f5a89bb37c512ca10318fdec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe79bc693e687290",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651218596250,
+        "stop" : 1651218616083,
+        "duration" : 19833
+      }
+    } ]
+  },
+  "f4153b940a3e58abd474fac406bb59e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9dfad5e47a59d6b2",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=100.0.4896.127)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.local', ip: '192.168.1.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:56370}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 614c9ff18f09f788f4e98e0b6a8820f7",
+      "time" : {
+        "start" : 1650983315097,
+        "stop" : 1650983318674,
+        "duration" : 3577
+      }
+    } ]
+  }
+}

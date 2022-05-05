@@ -1,0 +1,200 @@
+{
+  "uid" : "fe79bc693e687290",
+  "name" : "selectAgreementsTabInPublicSession()",
+  "fullName" : "tests.loans.positive.CarLoansPositiveTest.selectAgreementsTabInPublicSession",
+  "historyId" : "4b222363f5a89bb37c512ca10318fdec",
+  "time" : {
+    "start" : 1651218596250,
+    "stop" : 1651218616083,
+    "duration" : 19833
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 17,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MacBook-Air-2.netis.cc"
+  }, {
+    "name" : "thread",
+    "value" : "2401@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.loans.positive.CarLoansPositiveTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.loans.positive.CarLoansPositiveTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectAgreementsTabInPublicSession"
+  }, {
+    "name" : "suite",
+    "value" : "tests.loans.positive.CarLoansPositiveTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "99661b0407e4b06c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651218509177,
+        "stop" : 1651218530645,
+        "duration" : 21468
+      }
+    }, {
+      "uid" : "3e08cd0865dc0c29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651218455838,
+        "stop" : 1651218475141,
+        "duration" : 19303
+      }
+    }, {
+      "uid" : "4bbf6cccecc436f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651218322852,
+        "stop" : 1651218337462,
+        "duration" : 14610
+      }
+    }, {
+      "uid" : "603a3e48d1fe5af3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651174304723,
+        "stop" : 1651174317871,
+        "duration" : 13148
+      }
+    }, {
+      "uid" : "4bbdde06c45cc184",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651174165023,
+        "stop" : 1651174184375,
+        "duration" : 19352
+      }
+    }, {
+      "uid" : "f42ba2261ad61d27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651174101876,
+        "stop" : 1651174120983,
+        "duration" : 19107
+      }
+    }, {
+      "uid" : "5e5a2f8646013a7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651172294082,
+        "stop" : 1651172378369,
+        "duration" : 84287
+      }
+    }, {
+      "uid" : "c7024bc3369dbe4f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(), 'Agreements')]\"}\n  (Session info: chrome=100.0.4896.127)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.netis.cc', ip: '192.168.1.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:62177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 4be449490652296ff40c5dcda640decc\n*** Element info: {Using=xpath, value=//div[contains(text(), 'Agreements')]}",
+      "time" : {
+        "start" : 1651171857015,
+        "stop" : 1651171874655,
+        "duration" : 17640
+      }
+    }, {
+      "uid" : "a339b33c74769750",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651171757147,
+        "stop" : 1651171774461,
+        "duration" : 17314
+      }
+    }, {
+      "uid" : "47f9c24445a9e8b5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651171440656,
+        "stop" : 1651171461248,
+        "duration" : 20592
+      }
+    }, {
+      "uid" : "3a7b9779b1b152ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651154675108,
+        "stop" : 1651154688328,
+        "duration" : 13220
+      }
+    }, {
+      "uid" : "e480c57a8d937cda",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(), 'Agreements')]\"}\n  (Session info: chrome=100.0.4896.127)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.netis.cc', ip: '192.168.1.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:57280}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 5e4005e60869217419e74d8c9cc84e13\n*** Element info: {Using=xpath, value=//div[contains(text(), 'Agreements')]}",
+      "time" : {
+        "start" : 1651154583660,
+        "stop" : 1651154603750,
+        "duration" : 20090
+      }
+    }, {
+      "uid" : "8ee0df1cced97180",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651154531151,
+        "stop" : 1651154545749,
+        "duration" : 14598
+      }
+    }, {
+      "uid" : "9f69e5416ef907be",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[contains(text(), 'Agreements')]\"}\n  (Session info: chrome=100.0.4896.127)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'MacBook-Air-2.netis.cc', ip: '192.168.1.102', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /var/folders/_g/j6dsv2791bv...}, goog:chromeOptions: {debuggerAddress: localhost:56129}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: bb13fb513e0a29ab9436cf09b918fd10\n*** Element info: {Using=xpath, value=//div[contains(text(), 'Agreements')]}",
+      "time" : {
+        "start" : 1651154328223,
+        "stop" : 1651154342582,
+        "duration" : 14359
+      }
+    }, {
+      "uid" : "38ba237d5c89d260",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651154267634,
+        "stop" : 1651154280666,
+        "duration" : 13032
+      }
+    }, {
+      "uid" : "8fa926aa3bc0bec8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651154117161,
+        "stop" : 1651154135922,
+        "duration" : 18761
+      }
+    }, {
+      "uid" : "9081765da5bd1293",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651150155152,
+        "stop" : 1651150169653,
+        "duration" : 14501
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe79bc693e687290.json",
+  "parameterValues" : [ ]
+}

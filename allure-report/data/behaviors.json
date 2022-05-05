@@ -1,0 +1,56 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "checkIsRedirectToAuth()",
+    "uid" : "9dfad5e47a59d6b2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1650983315097,
+      "stop" : 1650983318674,
+      "duration" : 3577
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 10,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "checkIsRedirectToAuth()",
+    "uid" : "7e0e216f4f84c32a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1651218590614,
+      "stop" : 1651218612574,
+      "duration" : 21960
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 14,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "selectAgreementsTabInPublicSession()",
+    "uid" : "fe79bc693e687290",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1651218596250,
+      "stop" : 1651218616083,
+      "duration" : 19833
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 17,
+    "retriesStatusChange" : true,
+    "parameters" : [ ]
+  } ]
+}

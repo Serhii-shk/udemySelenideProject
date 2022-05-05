@@ -1,0 +1,59 @@
+{
+  "uid" : "f42ba2261ad61d27",
+  "name" : "selectAgreementsTabInPublicSession()",
+  "fullName" : "tests.loans.positive.CarLoansPositiveTest.selectAgreementsTabInPublicSession",
+  "historyId" : "4b222363f5a89bb37c512ca10318fdec",
+  "time" : {
+    "start" : 1651174101876,
+    "stop" : 1651174120983,
+    "duration" : 19107
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "MacBook-Air-2.netis.cc"
+  }, {
+    "name" : "thread",
+    "value" : "38754@MacBook-Air-2.netis.cc.ForkJoinPool-1-worker-0(14)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.loans.positive.CarLoansPositiveTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.loans.positive.CarLoansPositiveTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectAgreementsTabInPublicSession"
+  }, {
+    "name" : "suite",
+    "value" : "tests.loans.positive.CarLoansPositiveTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f42ba2261ad61d27.json",
+  "parameterValues" : [ ]
+}

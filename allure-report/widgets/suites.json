@@ -1,0 +1,37 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "ffdb00dff7c1327473b05c5db2ca4cb5",
+    "name" : "tests.telecomunications.positive.MobilePhoneReplenishmentTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "cba127641f2e68daf3c4e6d48471fa2d",
+    "name" : "tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9f690fa06117d38bb1c275ec327b6c6b",
+    "name" : "tests.loans.positive.CarLoansPositiveTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}
