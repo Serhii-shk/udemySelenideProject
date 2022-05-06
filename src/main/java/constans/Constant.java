@@ -16,5 +16,8 @@ public class Constant {
         public static final String MOBILE_PAYMENT_CARD = "4506909324274797";
         public static final String MOBILE_PAYMENT_EXP_DATE = "0622";
         public static final String MOBILE_PAYMENT_CVV = "327";
+        public static final String MOBILE_FIRST_NAME_CARD = "Serhii";
+        public static final String MOBILE_LAST_NAME_CARD = "Veselkin";
     }
+
 }

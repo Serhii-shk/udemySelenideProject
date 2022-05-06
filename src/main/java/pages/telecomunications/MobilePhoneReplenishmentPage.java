@@ -1,7 +1,9 @@
 package pages.telecomunications;
 
+import org.junit.jupiter.api.Assertions;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import pages.base.BasePage;
 
 public class MobilePhoneReplenishmentPage extends BasePage {
@@ -16,6 +18,9 @@ public class MobilePhoneReplenishmentPage extends BasePage {
     private final By inputCardFrom = By.xpath("//input[@data-qa-node='numberdebitSource']");
     private final By inputCardExpDate = By.xpath("//input[@data-qa-node='expiredebitSource']");
     private final By inputCardCvv = By.xpath("//input[@data-qa-node='cvvdebitSource']");
+    private final By inputFirstName = By.xpath("//input[@data-qa-node='firstNamedebitSource']");
+    private final By inputLastName = By.xpath("//input[@data-qa-node='lastNamedebitSource']");
+    private final By paymentDetails = By.xpath("//div[@data-qa-node='details']");
 
 
     /**
@@ -76,6 +81,35 @@ public class MobilePhoneReplenishmentPage extends BasePage {
      * **/
     public MobilePhoneReplenishmentPage submitToTheCart() {
         driver.findElement(buttonSubmitToTheCart).click();
+        return this;
+    }
+
+    /**
+     * Enter first name
+     * @param firstName first name
+     * **/
+    public MobilePhoneReplenishmentPage enterFirstName(String firstName) {
+        driver.findElement(inputFirstName).sendKeys(firstName);
+        return this;
+    }
+
+    /**
+     * Enter last name
+     * @param lastName last name
+     * **/
+    public MobilePhoneReplenishmentPage enterLastName(String lastName) {
+        driver.findElement(inputLastName).sendKeys(lastName);
+        return this;
+    }
+
+    /**
+     * Check payment details present in the cart
+     * @param text
+     * **/
+    public MobilePhoneReplenishmentPage checkPaymentDetailsPresentInTheCart(String text) {
+        waitElementIsVisible(driver.findElement(paymentDetails));
+        WebElement details = driver.findElement(paymentDetails);
+        Assertions.assertEquals(text, details.getText());
         return this;
     }
 

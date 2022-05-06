@@ -23,7 +23,11 @@ public class MobilePhoneReplenishmentPositiveTest extends BaseTest {
                 .enterCardFrom(MOBILE_PAYMENT_CARD)
                 .enterCardExpDate(MOBILE_PAYMENT_EXP_DATE)
                 .enterCvv(MOBILE_PAYMENT_CVV)
-                .submitToTheCart();
+                .enterFirstName(MOBILE_FIRST_NAME_CARD)
+                .enterLastName(MOBILE_LAST_NAME_CARD)
+                .submitToTheCart()
+                .checkPaymentDetailsPresentInTheCart("Mobile payment. Phone number +380979979468");
+
     }
 
 }
