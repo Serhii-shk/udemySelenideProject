@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.66 s - in tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 36.504 s <<< FAILURE! - in tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest
+checkMinimumReplenishmentAmount  Time elapsed: 29.689 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1Mobile payment. Phone number +380979979468> but was: <Mobile payment. Phone number +380979979468>
+	at tests.telecomunications.positive.MobilePhoneReplenishmentPositiveTest.checkMinimumReplenishmentAmount(MobilePhoneReplenishmentPositiveTest.java:29)
+

@@ -3,6 +3,7 @@ constans/Constant$Urls.class
 common/CommonActions.class
 pages/loans/CarLoansPage.class
 pages/telecomunications/MobilePhoneReplenishmentPage.class
+constans/Constant$MobileReplenishmentTestDada.class
 constans/Constant$TimeoutVariables.class
 pages/base/BasePage.class
 common/Config.class
