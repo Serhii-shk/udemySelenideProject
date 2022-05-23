@@ -1,41 +1,42 @@
-//package pages.base;
-//
-//import org.openqa.selenium.By;
-//import org.openqa.selenium.WebDriver;
-//import org.openqa.selenium.WebElement;
-//import org.openqa.selenium.support.ui.ExpectedConditions;
-//import org.openqa.selenium.support.ui.WebDriverWait;
-//import static constans.Constant.TimeoutVariables.EXPLICIT_WAIT;
-//
-//public class BasePage {
-//    public WebDriver driver;
-//    public BasePage(WebDriver driver) {
-//        this.driver = driver;
-//    }
-//
-//    public final By authWidget = By.xpath("//iframe[@src='https://login-widget.privat24.ua/']");
-//
-//
-//    /**
-//     * The method for navigating to a specific URL
-//     **/
-//    public void goToUrl(String url){
-//        driver.get(url);
-//    }
-//
-//    /**
-//     * Wait for visibility element in DOM model
-//     **/
-//    public WebElement waitElementIsVisible(WebElement element) {
-//        new WebDriverWait(driver, EXPLICIT_WAIT).until(ExpectedConditions.visibilityOf(element));
-//        return element;
-//    }
-//
-//    /**
-//     * Check is auth frame is visible
-//     **/
-//     public void isAuthWidgetPresent() {
-//        WebElement authFrame = driver.findElement(authWidget);
-//         waitElementIsVisible(authFrame);
-//    }
-//}
+package pages.base;
+
+import com.codeborne.selenide.Condition;
+import com.codeborne.selenide.SelenideElement;
+import org.openqa.selenium.Keys;
+import static com.codeborne.selenide.Selectors.byText;
+import static com.codeborne.selenide.Selenide.*;
+
+public class BasePage {
+
+    public final SelenideElement authWidgetP24new = $x("//iframe[@src='https://login-widget.privat24.ua/']");
+
+    /**
+     * A method for navigating to a specific URL
+     **/
+    public void goToURL(String url){
+        open(url);
+    }
+
+    /**
+     * A method that cleans the element of the text and enters the desired text
+     * @param element Selenium WebElement
+     * @param value text
+     * */
+    protected void clearAndType(SelenideElement element, String value) {
+        while (!element.getAttribute("value").equals("")) element.sendKeys(Keys.BACK_SPACE);
+        element.setValue(value);
+    }
+
+    /**
+     * Checking whether a frame for authorization
+     **/
+     public void checkIsDisplayedAuthWidget() {
+         authWidgetP24new.shouldBe(Condition.visible);
+    }
+
+
+    /** Check the text on page */
+    public void checkMessage(String message) {
+         $(byText(message)).shouldBe(Condition.visible);
+    }
+}
